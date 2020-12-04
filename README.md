@@ -321,3 +321,9 @@ community.
 open data packages.
 
 * [_ImageFu_](https://www.imagefu.com/) A good tool to create button images.
+
+### Eduflow Resources
+
+* https://guides.github.com/activities/hello-world/#pr
+* https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+* https://drive.google.com/file/d/1CyG_Ao45Cv75z877RtUureTCiGr_56Rl/view?usp=sharing
